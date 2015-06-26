@@ -54,7 +54,7 @@ $(function() {
                 $('#contactForm').trigger("reset");
               }
             }
-          }
+          
         },
         filter: function() {
             return $(this).is(":visible");
